@@ -1,0 +1,8 @@
+---------------------------Uneet Patel-DIP----------------------------------
+----------------------------2015csb1038--------------------------------------
+----------------------------README-LAB1--------------------------------------
+
+1) Run TestConnected.m
+2) Enter the number out of 1,2 or 3 to choose the neighbour type
+3) Afterwards run TestRedEye.m
+4) Enter the image filename to process.
