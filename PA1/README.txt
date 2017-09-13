@@ -1,18 +1,18 @@
 					Uneet Patel 2015csb1038
------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
 						PA - 1
------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
 						README
------------------------------------------------------------------------------
-
-1.extract the folder and go to the directory.
-1. Run script TestPA1.m.
-3. Ensure that all the images are in the same folder if not then add them.
+-------------------------------------------------------------------------------------------------------------------------------------------
+1. The Question is in QUestion.pdf amd  the two research papers mentioned in the folder are used a reference.
+2.extract the folder and go to the directory.
+3. Run script TestPA1.m.
+4. Ensure that all the images are in the same folder if not then add them.
 
 ### Running the program requires a time and pauses are inserted such that until enter is not pressed code will not run for the furthur images
 
 
-THe order of images shown in subplot is 
+The order of images shown in subplot is 
 
-ORIGINAL 				MYHISTEQ				MYAHE
-GA 					GVR					DRE
+ORIGINAL 				Hist Equalised Img				Adaptive Histogram Equalised Image
+Gap adjusted Image 			Gray value recovered Image			Dark region Enhansed Img
