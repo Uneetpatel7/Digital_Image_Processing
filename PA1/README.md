@@ -1,4 +1,4 @@
-					Uneet Patel 2015csb1038
+					Author:Uneet Patel 2015csb1038
 -------------------------------------------------------------------------------------------------------------------------------------------
 						PA - 1
 -------------------------------------------------------------------------------------------------------------------------------------------
@@ -16,3 +16,7 @@ The order of images shown in subplot is
 
 ORIGINAL 				Hist Equalised Img				Adaptive Histogram Equalised Image
 Gap adjusted Image 			Gray value recovered Image			Dark region Enhansed Img
+
+
+#author Uneet Patel
+#email id: 2015csb1038@iitrpr.ac.in
