@@ -1,6 +1,7 @@
-2015CSB1039
-Vinit Kothawade
-
+Author: Uneet Patel 2015csb1038
+----------------------------------
+email: 2015CSB1038@iitrpr.ac.in
+----------------------------------
 Figure1:
 
 data(Fig1.tif) = 88kb
